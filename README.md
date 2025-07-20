@@ -37,9 +37,9 @@
 
 <p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api?username=koncit&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koncit&theme=radical&layout=compact"></a></p>
-<p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api?username=koncit15&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/koncit15"><img src="https://streak-stats.demolab.com/?user=koncit15&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koncitofc&theme=chartreuse-dark&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api?username=koncit&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/koncit15"><img src="https://streak-stats.demolab.com/?user=koncit&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koncit&theme=chartreuse-dark&layout=compact"></a></p> 
 
 
 
