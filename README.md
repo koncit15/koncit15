@@ -10,10 +10,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/koncit.png" />
-</p>
-
-<p align="center">
 
 - 👤 My name : K0NC1T 
 - 💌 I am Newbie 
