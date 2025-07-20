@@ -16,7 +16,8 @@
 - 👨‍💻 Not Programmer / Heker
 - 🕹️ Play With Coding
 - ☠️ All system not safe
-- ☪️ Thank To Allah SWT 
+- ☪️ Thank To Allah SWT
+- 🏪 My Store [Koncit Store](https://s.id/koncitstore)
 </p>
 
 ------
