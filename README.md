@@ -13,8 +13,8 @@
 
 - 👤 My name : K0NC1T 
 - 💌 I am Newbie 
-- 👨‍💻 Bukan Programer / Heker
-- 🕹️ Ngoding itu asik
+- 👨‍💻 Not Programmer / Heker
+- 🕹️ Play With Coding
 - ☠️ All system not safe
 - ☪️ Thank To Allah SWT 
 </p>
