@@ -44,13 +44,16 @@
 <p align="center"><a href="https://github.com/koncit15"><img src="https://streak-stats.demolab.com/?user=koncit&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koncit&theme=chartreuse-dark&layout=compact"></a></p> 
 
-
+------
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+------
+##### Play with me 🎮
 
-![Metrics](https://metrics.lecoq.io/koncit?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FBatam)
+<br>
 
-</details> 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
