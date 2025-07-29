@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/koncit15/koncit15/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ryo-ma/ryo-ma/output/snake.svg" alt="Snake animation" />
 
 ###
