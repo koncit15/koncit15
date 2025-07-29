@@ -1,4 +1,4 @@
-<center>![Koncit](img/githubbanner.png)</center>
+![Koncit](img/githubbanner.png)
 
 <h1 align="center">السلام عليكم</h1>
 
