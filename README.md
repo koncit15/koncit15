@@ -1,4 +1,4 @@
-![Koncit](img/githubbanner2.png)
+![Koncit](img/githubbanner.png)
 
 <h1 align="center">السلام عليكم</h1>
 
@@ -46,12 +46,7 @@
 
 
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=koncit15)
-
-</details>
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
