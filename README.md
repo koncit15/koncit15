@@ -1,1 +1,59 @@
-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
+![Koncit](img/githubbanner.png)
+
+<h1 align="center">السلام عليكم</h1>
+
+<div align="center">
+<a href="https://youtube.com/c/KoncitOfc">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f4bc0f&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+KoncitOfc;Welcome+to+my+GitHub+😊"
+            alt="Typing SVG"
+        />
+    </a>
+</div>
+
+<p align="center">
+
+- 👤 My name : K0NC1T 
+- 💌 I am Newbie 
+- 👨‍💻 Not Programmer / Heker
+- 🕹️ Play With Coding
+- ☠️ All system not safe
+- ☪️ Thank To Allah SWT
+- 🏪 My Store [Koncit Store](https://s.id/koncitstore)
+</p>
+
+------
+### ✨ Connect with me ☎️
+<p align="center">
+  <a href="https://wa.me/6283897657013"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/alienbelijajan"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+    <a href="https://youtube.com/@KoncitOfc"><img src="https://img.shields.io/badge/YouTube-Koncit -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@KoncitOfc" />
+</p>
+
+------
+#### ✨ Skills Language
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+
+------
+#### ✨ Comunity 
+<img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white" /> <img src="https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=white" /> <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" /> <img src="https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white" /> 
+
+------
+
+### ✨ Github Stats 🚀
+
+<p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api?username=koncit&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/koncit15"><img src="https://streak-stats.demolab.com/?user=koncit&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/koncit15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koncit&theme=chartreuse-dark&layout=compact"></a></p> 
+
+------
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
+
+------
+<h2 align="left">✨ Play With Me 🎮</h2>
+
+<img src="https://raw.githubusercontent.com/koncit15/koncit15/output/snake.svg" alt="Snake animation" />
+
+###
