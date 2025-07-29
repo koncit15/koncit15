@@ -1,4 +1,4 @@
-![Koncit](img/githubbanner.png)
+![Koncit](img/githubbanner2.png)
 
 <h1 align="center">السلام عليكم</h1>
 
@@ -27,7 +27,6 @@
 <p align="center">
   <a href="https://wa.me/6283897657013"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://t.me/alienbelijajan"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/koncit15"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
     <a href="https://youtube.com/@KoncitOfc"><img src="https://img.shields.io/badge/YouTube-Koncit -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@KoncitOfc" />
 </p>
 
